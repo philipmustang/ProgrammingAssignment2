@@ -54,7 +54,9 @@ function.
 ### Test
 
 #### Create a matrix 3x3
+
 B <- matrix(c(1,2,3,4,5,6,7,8,9),3,3)
+
 B1 <- makeCacheMatrix(B)
 
 #### Create the inverse of matrix B
